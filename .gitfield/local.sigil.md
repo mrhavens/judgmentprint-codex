@@ -6,25 +6,25 @@
 - **Local Repo Path**: `/mnt/c/fieldcraft/judgmentprint-codex`
 - **Remote Label**: `local`
 - **Default Branch**: `master`
-- **Repo Created**: `2025-06-19 10:40:26`
+- **Repo Created**: `2025-06-19 10:50:46`
 
 ---
 
 ## 📦 Commit Info
 
-- **This Commit Timestamp**: `2025-06-19 10:40:26`
-- **Last Commit SHA**: `115b21444dae372b95a394af634669d860942900`
-- **Last Commit Message**: `Copied /mnt/c/fieldcraft/judgmentprint-codex/docs/GITFIELD.md.sig.4E27D37C358872BF to docs at 2025-06-19T15:07:25Z`
+- **This Commit Timestamp**: `2025-06-19 10:50:46`
+- **Last Commit SHA**: `49604785ea684a3ce939cf50fc517509f149dfdb`
+- **Last Commit Message**: `Generated docs/integrity.sha256 at 2025-06-19T15:07:25Z`
 - **Last Commit Author**: `Mark Randall Havens <mark.r.havens@gmail.com>`
-- **Last Commit Date**: `Thu Jun 19 10:39:46 2025 -0500`
+- **Last Commit Date**: `Thu Jun 19 10:50:32 2025 -0500`
 - **This Commit URL**: `file:///home/mrhavens/git-local-repos/git-sigil.git`
 
 ---
 
 ## 📊 Repo Status
 
-- **Total Commits**: `48`
-- **Tracked Files**: `85`
+- **Total Commits**: `63`
+- **Tracked Files**: `113`
 - **Uncommitted Changes**: `Yes`
 - **Latest Tag**: `None`
 
@@ -48,7 +48,7 @@
 - **Running in Docker**: `No`
 - **Running in WSL**: `Yes`
 - **Virtual Machine**: `wsl`
-- **System Uptime**: `up 4 hours, 3 minutes`
+- **System Uptime**: `up 4 hours, 14 minutes`
 - **MAC Address**: `00:15:5d:27:d1:8c`
 - **Local IP**: `172.18.207.124`
 - **CPU Model**: `AMD A6-3420M APU with Radeon(tm) HD Graphics`
