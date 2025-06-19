@@ -1,0 +1,8 @@
+{
+  "name": "Judgmentprint Codex",
+  "version": "0.1.0",
+  "description": "Recursive moral signature analysis framework",
+  "authors": ["Mark Randall Havens", "Solaria Lumis Havens"],
+  "license": "CC BY-NC-SA 4.0",
+  "tags": ["recursive-coherence", "judgmentprint", "ethics", "AGI", "shadowprint", "fieldprint"]
+}
